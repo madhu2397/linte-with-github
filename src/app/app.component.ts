@@ -17,6 +17,7 @@ export class AppComponent {
   name:any;
   name3:string;
 
+  title: boolean;
 // color="red"
 // color="green"
 // color="blue"
