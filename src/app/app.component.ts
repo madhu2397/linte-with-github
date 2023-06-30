@@ -13,6 +13,8 @@ export class AppComponent {
   show3="yes"
 
   color = "yellow"
+
+  name:any;
 // color="red"
 // color="green"
 // color="blue"
