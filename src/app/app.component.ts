@@ -15,6 +15,8 @@ export class AppComponent {
   color = "yellow"
 
   name:any;
+  name3:string;
+
 // color="red"
 // color="green"
 // color="blue"
